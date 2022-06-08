@@ -15,7 +15,7 @@ https://www.facebook.com/techblogdelivery
 - [x] [Lyft](https://eng.lyft.com)
 - [x] [Medium](https://medium.engineering)
 - [x] [Meta](https://engineering.fb.com)
-- [x] Netflix](https://netflixtechblog.com)
+- [x] [Netflix](https://netflixtechblog.com)
 - [x] [Robinhood](https://robinhood.engineering)
 - [x] [Slack](https://slack.engineering)
 - [x] [Spotify](https://engineering.atspotify.com/)
