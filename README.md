@@ -2,6 +2,8 @@
 https://www.facebook.com/techblogdelivery
 
 ## Company Blog List (A-Z)
+- [x] [Accenture](https://www.accenture.com/us-en/blogs/technology-innovation)
+- [x] [Adobe](https://medium.com/adobetech)
 - [x] [Airbnb](https://medium.com/airbnb-engineering)
 - [x] [Atlassian](https://blog.developer.atlassian.com)
 - [x] [Databricks](https://databricks.com/blog/category/engineering/data-engineering)
@@ -16,6 +18,7 @@ https://www.facebook.com/techblogdelivery
 - [x] [Medium](https://medium.engineering)
 - [x] [Meta](https://engineering.fb.com)
 - [x] [Netflix](https://netflixtechblog.com)
+- [x] [Pinterest](https://medium.com/@Pinterest_Engineering)
 - [x] [Robinhood](https://robinhood.engineering)
 - [x] [Slack](https://slack.engineering)
 - [x] [Snap](https://eng.snap.com/blog)
