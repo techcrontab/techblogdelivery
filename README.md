@@ -35,4 +35,4 @@ https://www.facebook.com/techblogdelivery
 - [x] [Twitter](https://blog.twitter.com/engineering/en_us)
 - [x] [Uber](https://eng.uber.com/)
 - [x] [Waymo](https://blog.waymo.com/)
-- [x] [Zendesk]()
+- [x] [Zendesk](https://zendesk.engineering)
